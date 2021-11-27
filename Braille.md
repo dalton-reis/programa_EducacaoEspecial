@@ -6,12 +6,10 @@ Material de pesquisa sobre educação especial: Braille
 
 Nível: Graduação  
 
-Tagarela Braille: App para Auxílio no Aprendizado ao Braille  
+**Título**: Tagarela Braille: App para Auxílio no Aprendizado ao Braille  
 [Link](README.md#t%C3%ADtulo-adaptação-do-portal-inversos-às-diretrizes-de-acessibilidade-wcag-20 "link")  
-
-----
-
-Estudo de Tecnologias Assistivas para Deficientes Visuais Aplicadas a Plataforma Furbot
+  
+**Título**: Estudo de Tecnologias Assistivas para Deficientes Visuais Aplicadas a Plataforma Furbot  
 [Link](README.md#t%C3%ADtulo-estudo-de-tecnologias-assistivas-para-deficientes-visuais-aplicadas-a-plataforma-furbot "link")  
 
 ### Título: BlackGlasses: Assistente para Deficientes Visuais Via Geolocalização
