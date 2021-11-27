@@ -34,15 +34,19 @@ Prof. Maurício C. Lopes (FURB - LIFE) e os alunos do curso de Pedagogia.
 [Link](README.md#t%C3%ADtulo-tecnologia-assistiva-tornando-jogo-de-mesa-acess%C3%ADvel-para-cegos-com-aux%C3%ADlio-de-aplicativo-móvel-de-reconhecimento-de-imagem "link") (2017/I) Ronan G. Kraemer - Tecnologia Assistiva: Tornando Jogo de Mesa Acessível para Cegos com Auxílio de Aplicativo Móvel de Reconhecimento de Imagem  
 [Link](README.md#t%C3%ADtulo-estudo-de-tecnologias-assistivas-para-deficientes-visuais-aplicadas-a-plataforma-furbot "link") (2020/I) Caroline Batistel - Estudo de Tecnologias Assistivas para Deficientes Visuais Aplicadas a Plataforma Furbot  
 
-- Objetivos:  
+- Objetivos: criar um aplicativo móvel para permitir que pessoas cegas possam participar de uma partida de Munchkin. E adaptar o jogo físico para aumentar a jogabilidade para o deficiente visual sem alterar as características do próprio jogo.  
 
-- Explorado:  
+- Conteúdo:  
+![Modelo de carta de Munchkin](CartaMunchkin.png "Modelo de carta de Munchkin")  
 
 - Analise:  
+![Etapas de testes com captura de imagem](EtapasTestesCapturaImagem.png "Etapas de testes com captura de imagem")  
 
 - Resultados:  
+![Resultados de baixa iluminação e alta iluminação](ResultadosIluminacao.png "Resultados de baixa iluminação e alta iluminação")  
 
 - Agradecimentos:  
+Paciência do orientando em me ensinar um pouco sobre o jogo de cartas 😁
 
 ## Braille Educação
 
@@ -52,7 +56,7 @@ Prof. Maurício C. Lopes (FURB - LIFE) e os alunos do curso de Pedagogia.
 
 - Objetivos:  
 
-- Explorado:  
+- Conteúdo:  
 
 - Analise:  
 
@@ -74,7 +78,7 @@ Prof. Maurício C. Lopes (FURB - LIFE) e os alunos do curso de Pedagogia.
 
 - Objetivos:  
 
-- Explorado:  
+- Conteúdo:  
 
 - Analise:  
 

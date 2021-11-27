@@ -87,7 +87,8 @@ LinkGIT: <https://github.com/dalton-reis/tcc_BrunoAdrielRoeder>
 
 Acadêmico: Ronan Guimarães Kraemer - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2017/I  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1849>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2017_1_ronan-guimaraes_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_RonanGuimaraesKraemer>  
 
 ### Título: Tagarela: Módulo Jogo de Letras e Número
 
