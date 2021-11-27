@@ -8,6 +8,10 @@ Gabriela Cristine de Sousa- Estagiária de Serviço Social
 Gerência de Apoio aos Conselhos- GAC  
 (47)3381-6640 - Ramal: 2232  
 
+## prof. Dalton Solano dos Reis
+
+[Mini Currículo](https://github.com/dalton-reis "Mini Currículo")  
+
 ## Material de pesquisa sobre educação especial: Braille
 
 [TCCs relacionados com Braille](Braille.md "TCCs relacionados com Braille")  
