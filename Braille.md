@@ -4,7 +4,7 @@ Material de pesquisa sobre educação especial: Braille
 
 ## Visão Geral
 
-[Mapa dos Trabalhos](Braille_VisaoGeral.drawio.svg "Mapa dos trabalhos")  
+![Mapa dos Trabalhos](Braille_VisaoGeral.drawio.svg "Mapa dos trabalhos")  
 
 ## Diretrizes de Acessibilidade
 
