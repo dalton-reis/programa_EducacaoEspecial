@@ -2,6 +2,10 @@
 
 Material de pesquisa sobre educação especial.
 
+## Eventos
+
+(2021-II) [Evento Redes Sociais para Todos - COMPED](COMPED.md "Evento Redes Sociais para Todos - COMPED")  
+
 ## Trabalhos de Conclusão de Curso
 
 Nível: Graduação  
@@ -38,9 +42,9 @@ LinkGIT: não disponível (privado)
 ### Título: Interface de Usuário Tangível para Trabalhar com Pensamento Computacional no Furbot
 
 Acadêmico: Jonathan Michels Kuntz - Orientador(a): Dalton Solano dos Reis  
-Ano/Semestre: 2020/I
-LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_jonathan-michels-kuntz_monografia.pdf>
-LinkGIT: <https://github.com/dalton-reis/tcc_JonathanMichelsKuntz>
+Ano/Semestre: 2020/I  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_jonathan-michels-kuntz_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_JonathanMichelsKuntz>  
 
 ### Título: Aprendizado de Libras Autodidata
 

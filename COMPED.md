@@ -1,4 +1,4 @@
-# Evento Redes Sociais Para Todos
+# Evento Redes Sociais para Todos
 
 Daiane Mantoanelli- Assistente Social CRESS 12º Região nº 4138  
 Assessora Técnica do Conselho Municipal dos Direitos da Pessoa com Deficiência - COMPED  

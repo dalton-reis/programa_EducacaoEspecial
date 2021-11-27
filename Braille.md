@@ -52,16 +52,24 @@ Paciência do orientando em me ensinar um pouco sobre o jogo de cartas 😁
 - Objetivos: construir uma variação do jogo Furbot com suporte à recursos de acessibilidade para pessoas cegas ou com baixo nível de visão. E, assim disponibilizar um módulo de audiodescrição integrado ao Furbot, que permita a pessoa se localizar, sem interferir na forma de encontrar a solução das atividades apresentadas; criar estratégias para auxiliar os usuários a se localizarem e atravessarem uma fase de teste.  
 
 - Conteúdo:  
+![Telas do Jogo Furbot](FurbotTelas.png "Telas do Jogo Furbot")  
 
 - Analise:  
+![Retorno da leitura de sensores](RetornoLeituraSensores.png "Retorno da leitura de sensores")  
+![Configuração de preferências do usuário](ConfiguracaoPreferenciasUsuario.png "Configuração de preferências do usuário")  
+![Localização dos checkpoints e pista](LocalizacaoCheckpointsPista.png "Localização dos checkpoints e pista")  
+![Diálogo de assistência S-223](DialogoAssistenciaS-223.png "Diálogo de assistência S-223")  
 
 - Resultados:  
+Muito a ser trabalhado ...
 
 - Agradecimentos:  
+![Especialistas do CEMEA](Furbot_CEMEA.png "Especialistas do CEMEA")  
+Reunião com as especialistas (Fernanda J. Pacheco e Leia P. Andrade) do Centro Municipal de Educação Alternativa (CEMEA) de Blumenau, que assistiram uma demonstração do protótipo e deram suas considerações referente as novas funcionalidades e a aplicação do TTS. A entrevista foi realizada no dia 12 de maio de 2020.  
 
 ----
 
-- TCC: [Link](README.md# "link") (2020/I) Jonathan M. Kuntz - Interface de Usuário Tangível para Trabalhar com Pensamento Computacional no Furbot  
+- TCC: [Link](README.md#t%C3%ADtulo-interface-de-usuário-tang%C3%ADvel-para-trabalhar-com-pensamento-computacional-no-furbot "link") (2020/I) Jonathan M. Kuntz - Interface de Usuário Tangível para Trabalhar com Pensamento Computacional no Furbot  
 
 - Objetivos:  
 
