@@ -105,6 +105,9 @@ Reunião com as especialistas (Fernanda J. Pacheco e Leia P. Andrade) do Centro
 
 - Resultados:  
 
+https://play.google.com/store/apps/details?id=com.tagarela.furb.br
+
+
 - Agradecimentos:  
 
 ## Braille Equipamento
