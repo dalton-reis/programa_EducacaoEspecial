@@ -10,9 +10,9 @@ Gerência de Apoio aos Conselhos- GAC
 
 ## prof. Dalton Solano dos Reis
 
-[Mini Currículo](https://github.com/dalton-reis "Mini Currículo")  
+[Mini Currículo](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Mini Currículo")  
 
-## Geupos de Pesquisa
+## Grupos de Pesquisa
 
 [Grupo de Pesquisa em Computação Gráfica, Processamento de Imagens e Entretenimento Digital](http://gcg.inf.furb.br/ "GCG")  
 [Grupo de Tecnologias de Desenvolvimento de Sistemas Aplicados à Educação](http://tecedu.inf.furb.br/ "TecEdu")  
