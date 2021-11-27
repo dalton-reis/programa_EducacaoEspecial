@@ -15,7 +15,7 @@ Gerência de Apoio aos Conselhos- GAC
 ## Geupos de Pesquisa
 
 [Grupo de Pesquisa em Computação Gráfica, Processamento de Imagens e Entretenimento Digital](http://gcg.inf.furb.br/ "GCG")  
-[Grupo de Tecnologias de Desenvolvimento de Sistemas Aplicados à Educação](.<)http://tecedu.inf.furb.br/ "TecEdu")  
+[Grupo de Tecnologias de Desenvolvimento de Sistemas Aplicados à Educação](http://tecedu.inf.furb.br/ "TecEdu")  
 [TAGARELA: Rede de Comunicação Alternativa](http://gcg.inf.furb.br/?page_id=992 "Tagarela")  
 [Programa Educação Especial](https://github.com/dalton-reis/programa_EducacaoEspecial "Programa Educação Especial")  
 
