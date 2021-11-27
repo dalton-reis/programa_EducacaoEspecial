@@ -11,15 +11,22 @@ Material de pesquisa sobre educação especial: Braille
 - TCCs:  
 [Link](README.md#t%C3%ADtulo-adaptação-do-portal-inversos-às-diretrizes-de-acessibilidade-wcag-20 "link") (2017/I) Bruno A. Roeder - Adaptação do Portal Inversos às Diretrizes de Acessibilidade Wcag 2.0  
 
-- Objetivos:  
+- Objetivos: adequar o Portal InVersos às diretrizes de acessibilidade do WCAG 2.0 (ferramenta automática de validação) e aliar aspectos de interação humana com a acessibilidade do portal.
 
-- Explorado:  
+- Conteúdo:  
+![Componentes da acessibilidade web](ComponentesAcessibilidadeWeb.png "Componentes da acessibilidade web")  
+![Selos dos níveis de conformidade que podem ser obtidos por uma página web](SelosNiveisConformidadePaginaWeb.png "Selos dos níveis de conformidade que podem ser obtidos por uma página web")  
+![Uma avaliação compatível com as diretrizes WCAG 2.0 nível AAA](AvaliacaoCompativelDiretrizesWCAG20AAA.png "Uma avaliação compatível com as diretrizes WCAG 2.0 nível AAA")  
 
-- Analise:  
+- Analise:
+![Realização de testes com usuários no portal InVersos](TestesUsuariosPortalInVersos.png "Realização de testes com usuários no portal InVersos")  
 
 - Resultados:  
+![Avaliação do Portal InVersos - Versão Inicial](AvaliacaoPortalInVersosVersaoInicial.png "Avaliação do Portal InVersos - Versão Inicial")  
+![Avaliação do Portal InVersos - Versão Final](AvaliacaoPortalInVersosVersaoFinal.png "Avaliação do Portal InVersos - Versão Final")  
 
 - Agradecimentos:  
+Prof. Maurício C. Lopes (FURB - LIFE) e os alunos do curso de Pedagogia.  
 
 ## Braille Jogos
 
