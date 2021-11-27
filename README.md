@@ -32,7 +32,15 @@ Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2066>
 
 Acadêmica: Caroline Batistel - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2020/I  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2023>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_caroline-batistel_monografia.pdf>  
+LinkGIT: não disponível (privado)  
+
+### Título: Interface de Usuário Tangível para Trabalhar com Pensamento Computacional no Furbot
+
+Acadêmico: Jonathan Michels Kuntz - Orientador(a): Dalton Solano dos Reis  
+Ano/Semestre: 2020/I
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_jonathan-michels-kuntz_monografia.pdf>
+LinkGIT: <https://github.com/dalton-reis/tcc_JonathanMichelsKuntz>
 
 ### Título: Aprendizado de Libras Autodidata
 
