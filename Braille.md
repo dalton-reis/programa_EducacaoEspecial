@@ -119,6 +119,9 @@ Profa. Luana Tillmann.
 
 - Resultados:  
 
+https://play.google.com/store/apps/details?id=com.tagarela.furb.br
+
+
 - Agradecimentos:  
 
 ## Braille Equipamento
