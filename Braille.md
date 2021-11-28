@@ -100,7 +100,7 @@ Projeto Furbot ([LDTT](http://ldttweb.furb.br/ldtt/) - FURB).
 ![Tela inicial do módulo Braille](imgs/TagarelaBraileTelaInicial.png "Tela inicial do módulo Braille")  
 
 - Analise:  
-![Texto Braille usado nos testes em aula](TagarelaBraileTextoBraille.png "Texto Braille usado nos testes em aula")  
+![Texto Braille usado nos testes em aula](imgs/TagarelaBraileTextoBraille.png "Texto Braille usado nos testes em aula")  
 
 - Resultados:  
 ![Apresentação dos sinais da 1a Série Braille](imgs/TagarelaBraileTelaSerie.png "Apresentação dos sinais da 1a Série Braille")  
