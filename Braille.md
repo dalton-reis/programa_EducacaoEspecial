@@ -99,6 +99,7 @@ A todos envolvidos no Projeto Furbot.
 ![Tela inicial do módulo Braille](imgs/TagarelaBraileTelaInicial.png "Tela inicial do módulo Braille")  
 
 - Analise:  
+![Texto Braille usado nos testes em aula](TagarelaBraileTextoBraille.png "Texto Braille usado nos testes em aula")  
 
 - Resultados:  
 ![Apresentação dos sinais da 1a Série Braille](imgs/TagarelaBraileTelaSerie.png "Apresentação dos sinais da 1a Série Braille")  
@@ -136,29 +137,23 @@ Profa. Luana Tillmann. Lucas Cazagranda. Profa. Viviane Clotilde da Silva (matem
 
 ## Braille Equipamento
 
-- TCC: [Link](README.md#t%C3%ADtulo-ferramenta-de-reconhecimento-de-gestos-da-mão "link") (2008-II) Rodrigo Bambineti - Ferramenta de Reconhecimento de Gestos da Mão  
-
-- Objetivos:  
-
-- Conteúdo:  
-
-- Analise:  
-
-- Resultados:  
-
-- Agradecimentos:  
-
 - TCC: [Link](README.md#t%C3%ADtulo-touch-braile-equipamento-acess%C3%ADvel "link") (2019/I) Jader A. Tomelin - Touch Braile: Equipamento Acessível  
 
-- Objetivos:  
+- Objetivos: construir um atuador Braille de baixo custo com apenas uma célula, de forma que a plataforma central seja baseada em um microcontrolador Arduino e que seja controlado por dispositivos móveis. E, assim possa ser utilizado com o Tagarella.  
 
 - Conteúdo:  
+Trabalhos anteriores: Lucas Cazagranda e Leonardo P. Vieira  
+![Servo motor](imgs/TagarellaAtuadorMotor1.png "Servo motor")  
+![Servo motor selecionado](imgs/TagarellaAtuadorMotor2.png "Servo motor selecionado")  
 
 - Analise:  
+![Testes na CEMEA](imgs/TagarellaAtuadorTestes.png "Testes na CEMEA")  
 
 - Resultados:  
+![Atuador finalizado e seus componentes internos](imgs/TagarellaAtuadorArquitetura.png "Atuador finalizado e seus componentes internos")  
 
 - Agradecimentos:  
+Léia P. de Andrade, Fernanda J. Pacheco e Charles D. Belz.
 
 - TCC: [Link](README.md#t%C3%ADtulo-blackglasses-assistente-para-deficientes-visuais-via-geolocalização "link") (2019/II) William L. da Silva - BlackGlasses: Assistente para Deficientes Visuais Via Geolocalização  
 

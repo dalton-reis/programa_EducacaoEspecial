@@ -68,7 +68,8 @@ Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2021>
 
 Acadêmico: Jader Antonio Tomelin - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2019/I  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1980>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_1_jader-antonio-tomelin_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_JaderAntonioTomelin>  
 
 ### Título: Tagarela: Módulo de Composição Musical por Meio de Musicoterapia
 
@@ -149,4 +150,4 @@ Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1490>
 
 Acadêmico: Rodrigo Bambineti - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2008-II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1161>  
+Link: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2008-2-24-vf-rodrigobambineti.pdf>
