@@ -122,7 +122,7 @@ Trabalho anterior: Lucas Cazagranda
 
 - Resultados:  
 ![Tela máquina Braille](imgs/TagarellaMaquinaBraille.png "Tela máquina Braille")  
-![Telas dos Módulos e Tutorial](imgs/TagarellaModulos.png "Telas dos Módulos e Tutorial")  
+![Telas dos Módulos e Tutorial](imgs/TagarellaTelas.png "Telas dos Módulos e Tutorial")  
 
 Disponível nas lojas:  
 Página do Tagarella: <https://tecedufurb.github.io/braille/>  
