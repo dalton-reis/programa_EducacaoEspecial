@@ -161,5 +161,5 @@ LinkGIT: <!-- FIXME: arrumar, erro ao importar do BitBucket para o GitHub -->
 
 Acadêmico: Rodrigo Bambineti - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2008-II  
-LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2008-2-24-vf-rodrigobambineti.pdf>
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2008-2-24-vf-rodrigobambineti.pdf>  
 LinkGIT: <!-- FIXME: arrumar, não tinha no BitBucket -->
