@@ -112,7 +112,8 @@ Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1791>
 
 Acadêmico: Lucas Cazagranda - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2016/I  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1743>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2016_1_lucas-cazagranda_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/LucasCazagranda>  
 
 ### Título: Tagarela: Integração e Melhorias no Aplicativo de Rede de Comunicação Alternativa
 

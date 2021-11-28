@@ -45,7 +45,7 @@ Prof. Maurício C. Lopes (FURB - LIFE) e os alunos do curso de Pedagogia.
 - Agradecimentos:  
 Paciência do orientando em me ensinar um pouco sobre o jogo de cartas 😁
 
-----
+----------
 
 - TCC: [Link](README.md#t%C3%ADtulo-estudo-de-tecnologias-assistivas-para-deficientes-visuais-aplicadas-a-plataforma-furbot "link") (2020/I) Caroline Batistel - Estudo de Tecnologias Assistivas para Deficientes Visuais Aplicadas a Plataforma Furbot  
 
@@ -67,33 +67,47 @@ Muito a ser trabalhado ...
 ![Especialistas do CEMEA](imgs/Furbot_CEMEA.png "Especialistas do CEMEA")  
 Reunião com as especialistas (Fernanda J. Pacheco e Leia P. Andrade) do Centro Municipal de Educação Alternativa (CEMEA) de Blumenau, que assistiram uma demonstração do protótipo e deram suas considerações referente as novas funcionalidades e a aplicação do TTS. A entrevista foi realizada no dia 12 de maio de 2020.  
 
-----
+----------
 
 - TCC: [Link](README.md#t%C3%ADtulo-interface-de-usuário-tang%C3%ADvel-para-trabalhar-com-pensamento-computacional-no-furbot "link") (2020/I) Jonathan M. Kuntz - Interface de Usuário Tangível para Trabalhar com Pensamento Computacional no Furbot  
 
-- Objetivos:  
+- Objetivos: criar um módulo para utilização de interface de usuário tangível no FURBOT para permitir que programação dos movimentos do robô sejam feito com peças fisicas.  
 
 - Conteúdo:  
+Inspiração <https://www.playosmo.com/en/shopping/kits/coding/>
+![Coding - OsmoPlay](OsmoPlayCod.png "Coding - OsmoPlay")  
+![Furbot - IUT](FurbotIUTTelas.png "Furbot - IUT")  
 
 - Analise:  
+![Peça de EVA](FurbotIUTPecaEVA.png "Peça de EVA")  
+![Peça de dominó - movimentação](FurbotIUTPecaDominoMovto.png "Peça de movimentação")  
 
 - Resultados:  
+![Utilização da IUT no jogo](FurbotIUTTelasJogo.png "Utilização da IUT no jogo")  
 
 - Agradecimentos:  
+A todos envolvidos no Projeto Furbot.  
 
 ## Braille Educação
 
 - TCC: [Link](README.md#t%C3%ADtulo-aprendendo-braille-o-ensino-do-sistema-braille-com-o-uso-do-tagarela "link") (2016/I) Lucas Cazagranda - Aprendendo Braille: O Ensino do Sistema Braille com o Uso do Tagarela  
 
-- Objetivos:  
+- Objetivos: criação de um módulo para o Tagarela, que possibilite, através de guias e atividades lúdicas, aprender como funciona o Sistema Braille. E assim propiciar ao usuário conhecer os sinais e séries do Sistema Braille; um ambiente para consulta de sinais braille em caso de dúvidas no processo de transcrição; proporcionar ao usuário praticar a escrita braille através de atividades de interação.  
 
 - Conteúdo:  
+![Representação das sete séries Braille](SeteSeriesBraille.png "Representação das sete séries Braille")  
+![Tela inicial do módulo Braille](TagarelaBraileTelaInicial.png "Tela inicial do módulo Braille")  
 
 - Analise:  
 
 - Resultados:  
+![Apresentação dos sinais da 1a Série Braille](TagarelaBraileTelaSerie.png "Apresentação dos sinais da 1a Série Braille")  
+![Exemplo de aplicação letra e, sinal 15](TagarelaBraileTelaLetra.png "Exemplo de aplicação letra e, sinal 15")  
+![Consulta dos pontos 126 e 3, abre parênteses](TagarelaBraileTelaConsulta.png "Consulta dos pontos 126 e 3, abre parênteses")  
+![Praticando o Braille, informando o ponto 24, corresponde ao i](TagarelaBraileTelaPratica.png "Praticando o Braille, informando o ponto 24, corresponde ao i")  
 
 - Agradecimentos:  
+Profa. Luana Tillmann.
 
 - TCC: [Link](README.md#t%C3%ADtulo-tagarela-braille-app-para-aux%C3%ADlio-no-aprendizado-ao-braille "link") (2020/II) Leonardo P. Vieira - Título: Tagarela Braille: App para Auxílio no Aprendizado ao Braille  
 
