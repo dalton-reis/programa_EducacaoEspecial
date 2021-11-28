@@ -27,14 +27,15 @@ Acadêmico: Bruno Henrique Borba - Orientador: Dalton Solano dos Reis
 
 Acadêmico: Leonardo Pereira Vieira - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2020/II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2066>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_2_leonardo-pereira-vieira_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_LeonardoPereiraVieira>  
 
 ### Título: Estudo de Tecnologias Assistivas para Deficientes Visuais Aplicadas a Plataforma Furbot
 
 Acadêmica: Caroline Batistel - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2020/I  
 LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_caroline-batistel_monografia.pdf>  
-LinkGIT: não disponível (privado)  
+LinkGIT: <https://github.com/dalton-reis/tcc_CarolineBatistel>  
 
 ### Título: Interface de Usuário Tangível para Trabalhar com Pensamento Computacional no Furbot
 
@@ -47,13 +48,16 @@ LinkGIT: <https://github.com/dalton-reis/tcc_JonathanMichelsKuntz>
 
 Acadêmico: Matheus Adriano Pereira - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2019/II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2014>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_2_matheus-adriano-pereira_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_MatheusAdrianoPereira>  
 
 ### Título: Tagarela: Aplicativo para Comunicação Alternativa Usando Arquitetura Baseada em Componentes
 
 Acadêmico: Rafael de Moura Pacheco - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2019/II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2019>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_2_rafael-de-moura-pacheco_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_RafaelMouraPacheco_backend>  
+LinkGIT: <https://github.com/dalton-reis/tcc_RafaelMouraPacheco_frontend>  
 
 ### Título: BlackGlasses: Assistente para Deficientes Visuais Via Geolocalização
 
@@ -73,19 +77,22 @@ LinkGIT: <https://github.com/dalton-reis/tcc_JaderAntonioTomelin>
 
 Acadêmico: Roberto Weege Junior - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2018/II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1952>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2018_2_roberto-weege-junior_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_RobertoWeegeJr>  
 
 ### Título: Librar - Conceitos Básicos de Libras Usando Realidade Aumentada e Realidade Virtual
 
 Acadêmico: Luan Ribeiro da Silva - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2018/I  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1913>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2018_1_luan-ribeiro-da-silva_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_LuanRibeiroSilva>  
 
 ### Título: MindsEye: Protótipo de Sistema para Monitoramento de Estímulos Cerebrais
 
 Acadêmico: Luccas de Souza Silva - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2018/I  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1915>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2018_1_luccas-de-souza-silva_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_LuccasDeSouzaSilva>  
 
 ### Título: Adaptação do Portal Inversos às Diretrizes de Acessibilidade Wcag 2.0
 
@@ -105,47 +112,54 @@ LinkGIT: <https://github.com/dalton-reis/tcc_RonanGuimaraesKraemer>
 
 Acadêmico: André Felipe Ferreira - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2016/II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1791>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2016_2_andre-felipe-ferreira_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_AndreFelipeFerreira>  
 
 ### Título: Aprendendo Braille: O Ensino do Sistema Braille com o Uso do Tagarela
 
 Acadêmico: Lucas Cazagranda - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2016/I  
 LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2016_1_lucas-cazagranda_monografia.pdf>  
-LinkGIT: <https://github.com/dalton-reis/LucasCazagranda>  
+LinkGIT: <https://github.com/dalton-reis/tcc_LucasCazagranda>  
 
 ### Título: Tagarela: Integração e Melhorias no Aplicativo de Rede de Comunicação Alternativa
 
 Acadêmico: André Filipe Wippel - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2015-II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1686>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2015_2_andre-filipe-wippel_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_AndreFilipeWippel>  
 
 ### Título: Tagarela 2.0: Framework de Comunicação Alternativa, Módulo de Jogos
 
 Acadêmico: Elvis Merten Marques - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2014-II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1638>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2014_2_elvis-merten-marques_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_ElvisMertenMarques>  
 
 ### Título: Tagarela: Aplicativo de Comunicação Alternativa na Plataforma Android
 
 Acadêmico: Darlan Diego de Marco - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2014-I  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1599>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2014_1_darlan-diego-de-marco_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_DarlanDiegoDeMarco>  
 
 ### Título: Jogo de Letras/Números Voltado para Tecnologia Assistiva no Android
 
 Acadêmico: Wagner Jean Reetz - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2013-II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1571>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2013_2_wagner-jean-reetz_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_WagnerJeanReetz>  
 
 ### Título: Tagarela: Aplicativo para Comunicação Alternativa no iOS
 
 Acadêmico: Alan Filipe Cardozo Fabeni - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2012-II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=1490>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/TCC2012-2-01-VF-AlanFCFabeni.pdf>  
+LinkGIT: <!-- FIXME: arrumar, erro ao importar do BitBucket para o GitHub -->
 
 ### Título: Ferramenta de Reconhecimento de Gestos da Mão
 
 Acadêmico: Rodrigo Bambineti - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2008-II  
-Link: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2008-2-24-vf-rodrigobambineti.pdf>
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2008-2-24-vf-rodrigobambineti.pdf>
+LinkGIT: <!-- FIXME: arrumar, não tinha no BitBucket -->
