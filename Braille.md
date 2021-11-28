@@ -118,6 +118,7 @@ Trabalho anterior: Lucas Cazagranda
 
 - Analise:  
 ![Módulos do Tagarella](imgs/TagarellaModulos.png "Módulos do Tagarella")  
+Uso de retorno de audio para indicar a navegação usando regiões na tela:  
 ![Áreas da célula módulo consulta](imgs/TagarellaAreasCedula.png "Áreas da célula módulo consulta")  
 
 - Resultados:  
