@@ -117,12 +117,12 @@ Profa. Luana Tillmann.
 Trabalho anterior: Lucas Cazagranda  
 
 - Analise:  
-![Módulos do Tagarella](TagarellaModulos.png "Módulos do Tagarella")  
-![Áreas da célula módulo consulta](TagarellaAreasCedula.png "Áreas da célula módulo consulta")  
+![Módulos do Tagarella](imgs/TagarellaModulos.png "Módulos do Tagarella")  
+![Áreas da célula módulo consulta](imgs/TagarellaAreasCedula.png "Áreas da célula módulo consulta")  
 
 - Resultados:  
-![Tela máquina Braille](TagarellaMaquinaBraille.png "Tela máquina Braille")  
-![Telas dos Módulos e Tutorial](TagarellaModulos.png "Telas dos Módulos e Tutorial")  
+![Tela máquina Braille](imgs/TagarellaMaquinaBraille.png "Tela máquina Braille")  
+![Telas dos Módulos e Tutorial](imgs/TagarellaModulos.png "Telas dos Módulos e Tutorial")  
 
 Disponível nas lojas:  
 Página do Tagarella: <https://tecedufurb.github.io/braille/>  
