@@ -75,15 +75,15 @@ Reunião com as especialistas (Fernanda J. Pacheco e Leia P. Andrade) do Centro
 
 - Conteúdo:  
 Inspiração <https://www.playosmo.com/en/shopping/kits/coding/>
-![Coding - OsmoPlay](OsmoPlayCod.png "Coding - OsmoPlay")  
-![Furbot - IUT](FurbotIUTTelas.png "Furbot - IUT")  
+![Coding - OsmoPlay](imgs/OsmoPlayCod.png "Coding - OsmoPlay")  
+![Furbot - IUT](imgs/FurbotIUTTelas.png "Furbot - IUT")  
 
 - Analise:  
-![Peça de EVA](FurbotIUTPecaEVA.png "Peça de EVA")  
-![Peça de dominó - movimentação](FurbotIUTPecaDominoMovto.png "Peça de movimentação")  
+![Peça de EVA](imgs/FurbotIUTPecaEVA.png "Peça de EVA")  
+![Peça de dominó - movimentação](imgs/FurbotIUTPecaDominoMovto.png "Peça de movimentação")  
 
 - Resultados:  
-![Utilização da IUT no jogo](FurbotIUTTelasJogo.png "Utilização da IUT no jogo")  
+![Utilização da IUT no jogo](imgs/FurbotIUTTelasJogo.png "Utilização da IUT no jogo")  
 
 - Agradecimentos:  
 A todos envolvidos no Projeto Furbot.  
@@ -95,16 +95,16 @@ A todos envolvidos no Projeto Furbot.
 - Objetivos: criação de um módulo para o Tagarela, que possibilite, através de guias e atividades lúdicas, aprender como funciona o Sistema Braille. E assim propiciar ao usuário conhecer os sinais e séries do Sistema Braille; um ambiente para consulta de sinais braille em caso de dúvidas no processo de transcrição; proporcionar ao usuário praticar a escrita braille através de atividades de interação.  
 
 - Conteúdo:  
-![Representação das sete séries Braille](SeteSeriesBraille.png "Representação das sete séries Braille")  
-![Tela inicial do módulo Braille](TagarelaBraileTelaInicial.png "Tela inicial do módulo Braille")  
+![Representação das sete séries Braille](imgs/SeteSeriesBraille.png "Representação das sete séries Braille")  
+![Tela inicial do módulo Braille](imgs/TagarelaBraileTelaInicial.png "Tela inicial do módulo Braille")  
 
 - Analise:  
 
 - Resultados:  
-![Apresentação dos sinais da 1a Série Braille](TagarelaBraileTelaSerie.png "Apresentação dos sinais da 1a Série Braille")  
-![Exemplo de aplicação letra e, sinal 15](TagarelaBraileTelaLetra.png "Exemplo de aplicação letra e, sinal 15")  
-![Consulta dos pontos 126 e 3, abre parênteses](TagarelaBraileTelaConsulta.png "Consulta dos pontos 126 e 3, abre parênteses")  
-![Praticando o Braille, informando o ponto 24, corresponde ao i](TagarelaBraileTelaPratica.png "Praticando o Braille, informando o ponto 24, corresponde ao i")  
+![Apresentação dos sinais da 1a Série Braille](imgs/TagarelaBraileTelaSerie.png "Apresentação dos sinais da 1a Série Braille")  
+![Exemplo de aplicação letra e, sinal 15](imgs/TagarelaBraileTelaLetra.png "Exemplo de aplicação letra e, sinal 15")  
+![Consulta dos pontos 126 e 3, abre parênteses](imgs/TagarelaBraileTelaConsulta.png "Consulta dos pontos 126 e 3, abre parênteses")  
+![Praticando o Braille, informando o ponto 24, corresponde ao i](imgs/TagarelaBraileTelaPratica.png "Praticando o Braille, informando o ponto 24, corresponde ao i")  
 
 - Agradecimentos:  
 Profa. Luana Tillmann.
