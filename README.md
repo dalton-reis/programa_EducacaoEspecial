@@ -21,8 +21,7 @@ Acadêmico: Guilherme Barth - Orientador: Dalton Solano dos Reis
 ### 2021-II
 
 Explorar Digitalização 3D em Tempo Real Utilizando Recursos iOS  
-Acadêmico: Bruno Henrique Borba  
-Orientador: Dalton Solano dos Reis  
+Acadêmico: Bruno Henrique Borba - Orientador: Dalton Solano dos Reis  
 
 ### Título: Tagarela Braille: App para Auxílio no Aprendizado ao Braille  
 
