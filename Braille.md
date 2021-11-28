@@ -150,6 +150,7 @@ Trabalhos anteriores: Lucas Cazagranda e Leonardo P. Vieira
 ![Testes na CEMEA](imgs/TagarellaAtuadorTestes.png "Testes na CEMEA")  
 
 - Resultados:  
+![Construção componentes](imgs/TagarellaAtuadorCaixa.png "Construção componentes")  
 ![Atuador finalizado e seus componentes internos](imgs/TagarellaAtuadorArquitetura.png "Atuador finalizado e seus componentes internos")  
 
 - Agradecimentos:  
