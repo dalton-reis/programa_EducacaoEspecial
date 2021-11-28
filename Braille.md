@@ -111,18 +111,27 @@ Profa. Luana Tillmann.
 
 - TCC: [Link](README.md#t%C3%ADtulo-tagarela-braille-app-para-aux%C3%ADlio-no-aprendizado-ao-braille "link") (2020/II) Leonardo P. Vieira - Título: Tagarela Braille: App para Auxílio no Aprendizado ao Braille  
 
-- Objetivos:  
+- Objetivos: desenvolver um aplicativo para o auxílio no ensino de pessoas com e sem deficiência visual a utilizar o Braille, possibilitando uma melhor adaptação entre os deficientes visuais e os que convivem com eles. Acreditasse assim que esse projeto possa vir auxiliar a integração dos deficientes ao meio onde vivem, facilitando o aprendizado e adaptação, principalmente no meio educacional.  
 
 - Conteúdo:  
+Trabalho anterior: Lucas Cazagranda  
 
 - Analise:  
+![Módulos do Tagarella](TagarellaModulos.png "Módulos do Tagarella")  
+![Áreas da célula módulo consulta](TagarellaAreasCedula.png "Áreas da célula módulo consulta")  
 
 - Resultados:  
+![Tela máquina Braille](TagarellaMaquinaBraille.png "Tela máquina Braille")  
+![Telas dos Módulos e Tutorial](TagarellaModulos.png "Telas dos Módulos e Tutorial")  
 
-https://play.google.com/store/apps/details?id=com.tagarela.furb.br
-
+Disponível nas lojas:  
+Página do Tagarella: <https://tecedufurb.github.io/braille/>  
+Versão Web: <https://tecedufurb.github.io/braille/Fontes/www/index.html#/tutorial>  
+PlayStore: <https://play.google.com/store/apps/details?id=com.tagarela.furb.br>  
+AppleStore: indisponível.  
 
 - Agradecimentos:  
+Profa. Luana Tillmann. Lucas Cazagranda. Profa. Viviane Clotilde da Silva (matemática).  
 
 ## Braille Equipamento
 
