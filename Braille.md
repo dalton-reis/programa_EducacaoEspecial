@@ -25,7 +25,7 @@ Material de pesquisa sobre educação especial: Braille
 ![Avaliação do Portal InVersos - Versão Final](imgs/AvaliacaoPortalInVersosVersaoFinal.png "Avaliação do Portal InVersos - Versão Final")  
 
 - Agradecimentos:  
-Prof. Maurício C. Lopes (FURB - LIFE) e os alunos do curso de Pedagogia.  
+Prof. Maurício C. Lopes (FURB - LIFE) e os alunos do curso de Pedagogia (FURB).  
 
 ## Braille Jogos
 
@@ -65,7 +65,8 @@ Muito a ser trabalhado ...
 
 - Agradecimentos:  
 ![Especialistas do CEMEA](imgs/Furbot_CEMEA.png "Especialistas do CEMEA")  
-Reunião com as especialistas (Fernanda J. Pacheco e Leia P. Andrade) do Centro Municipal de Educação Alternativa (CEMEA) de Blumenau, que assistiram uma demonstração do protótipo e deram suas considerações referente as novas funcionalidades e a aplicação do TTS. A entrevista foi realizada no dia 12 de maio de 2020.  
+Léia P. de Andrade e Fernanda J. Pacheco (CEMEA).  
+Projeto Furbot ([LDTT](http://ldttweb.furb.br/ldtt/) - FURB).  
 
 ----------
 
@@ -86,7 +87,7 @@ Inspiração <https://www.playosmo.com/en/shopping/kits/coding/>
 ![Utilização da IUT no jogo](imgs/FurbotIUTTelasJogo.png "Utilização da IUT no jogo")  
 
 - Agradecimentos:  
-A todos envolvidos no Projeto Furbot.  
+Projeto Furbot ([LDTT](http://ldttweb.furb.br/ldtt/) - FURB).  
 
 ## Braille Educação
 
@@ -109,6 +110,8 @@ A todos envolvidos no Projeto Furbot.
 
 - Agradecimentos:  
 Profa. Luana Tillmann.
+
+----------
 
 - TCC: [Link](README.md#t%C3%ADtulo-tagarela-braille-app-para-aux%C3%ADlio-no-aprendizado-ao-braille "link") (2020/II) Leonardo P. Vieira - Título: Tagarela Braille: App para Auxílio no Aprendizado ao Braille  
 
@@ -154,30 +157,52 @@ Trabalhos anteriores: Lucas Cazagranda e Leonardo P. Vieira
 ![Atuador finalizado e seus componentes internos](imgs/TagarellaAtuadorArquitetura.png "Atuador finalizado e seus componentes internos")  
 
 - Agradecimentos:  
-Léia P. de Andrade, Fernanda J. Pacheco e Charles D. Belz.
+Prof. Miguel Alexandre Wisintainer (Eletrônica - FURB).  
+Léia P. de Andrade, Fernanda J. Pacheco e Charles D. Belz (CEMEA).  
+
+----------
 
 - TCC: [Link](README.md#t%C3%ADtulo-blackglasses-assistente-para-deficientes-visuais-via-geolocalização "link") (2019/II) William L. da Silva - BlackGlasses: Assistente para Deficientes Visuais Via Geolocalização  
 
-- Objetivos:  
+- Objetivos: construir um dispositivo móvel com geolocalização, reconhecimento de fala e sintetizador de texto para fala trabalhando totalmente off-line. O dispositivo visa auxiliar deficientes visuais informando os pontos de interesses que se encontram dentro do raio do seu percurso.  
 
 - Conteúdo:  
+![Esquema de montagem](imgs/BlackGlassesEsquema.png "Esquema de montagem")  
 
 - Analise:  
+![Comparação de precisão GPS e A-GPS](imgs/BlackGlassesTestesGPS.png "Comparação de precisão GPS e A-GPS")  
 
 - Resultados:  
+![Modelagem do Case - TinkerCad](imgs/BlackGlassesCaixa.png "Modelagem do Case - TinkerCad")  
+![Case impresso em impressora 3D](imgs/BlackGlassesCaixaPronta.png "Case impresso em impressora 3D")  
 
 - Agradecimentos:  
+Prof. Miguel Alexandre Wisintainer (Eletrônica - FURB).  
+
+----------
 
 (2021-II) Bruno H. Borba - Explorar Digitalização 3D em Tempo Real Utilizando Recursos iOS  
 (2022-I) Gabriel L. F. de Souza - Desenvolvimento de uma Biblioteca para o Uso do Sensor LiDAR em Dispositivos iOS  
 (2022-I) Guilherme Barth - Óculos de Realidade Virtual para Auxiliar as Pessoas com Deficiência Visual a Transitarem em Lugares Aberto e Fechados  
 
-- Objetivos:  
+- Objetivos: explorar o uso de tecnologias de sensores LiDAR e Beacons (AirTag) na percepção do espaço físico do mundo real para ser utilizado no mundo virtual e explorar seu uso em Realidade Virtual Misturada, Realidade Alternativa e Metaverso.  
 
 - Conteúdo:  
+O que existe:  
+![Algumas soluções existentes](imgs/MetaVersoExiste1.png "Algumas soluções existentes")  
+![Algumas soluções existentes](imgs/MetaVersoExiste2.png "Algumas soluções existentes")  
+
+Câmeras e sensor LiDAR Apple (iPhone e iPad):  
+![Câmeras e sensor LiDAR Apple no iPhone](imgs/MetaVersoAppleLidar.png "Câmeras e sensor LiDAR Apple no iPhone")  
+
+Digitalização do mundo real usando LiDAR - Apple:  
+![Digitalização do mundo real usando LiDAR](imgs/MetaVersoAppleLidarCenas.png "Digitalização do mundo real usando LiDAR")  
+
+Microlocalização usando Beacons - AirTag Apple:  
+![Microlocalização usando Beacons - AirTag Apple](imgs/MetaVersoAirTag.png "Microlocalização usando Beacons - AirTag Apple")  
+
+AirTag - busca mais precisa: distância e orientação:  
+![AirTag - busca mais precisa](imgs/MetaVersoAirTagiPhone.png "AirTag - busca mais precisa")  
 
 - Analise:  
-
-- Resultados:  
-
-- Agradecimentos:  
+Em desenvolvimento ..  

@@ -62,7 +62,8 @@ Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2019>
 
 Acadêmico: William Lopes da Silva - Orientador: Dalton Solano dos Reis  
 Ano/Semestre: 2019/II  
-Link: <http://dsc.inf.furb.br/tcc/index.php?cd=6&tcc=2021>  
+LinkDSC: <http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_2_william-lopes-da-silva_monografia.pdf>  
+LinkGIT: <https://github.com/dalton-reis/tcc_WilliamLopesSilva>  
 
 ### Título: Touch Braile: Equipamento Acessível
 
