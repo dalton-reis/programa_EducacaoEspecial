@@ -74,7 +74,7 @@ Reunião com as especialistas (Fernanda J. Pacheco e Leia P. Andrade) do Centro
 - Objetivos: criar um módulo para utilização de interface de usuário tangível no FURBOT para permitir que programação dos movimentos do robô sejam feito com peças fisicas.  
 
 - Conteúdo:  
-Inspiração <https://www.playosmo.com/en/shopping/kits/coding/>
+Inspiração <https://www.playosmo.com/en/shopping/kits/coding/>  
 ![Coding - OsmoPlay](imgs/OsmoPlayCod.png "Coding - OsmoPlay")  
 ![Furbot - IUT](imgs/FurbotIUTTelas.png "Furbot - IUT")  
 
