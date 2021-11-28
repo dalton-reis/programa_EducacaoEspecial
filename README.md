@@ -1,4 +1,4 @@
-# programa_EducacaoEspecial
+# Programa: Educação Especial
 
 Material de pesquisa sobre educação especial.
 
@@ -13,12 +13,10 @@ Nível: Graduação
 ### 2022-I
 
 Desenvolvimento de uma Biblioteca para o Uso do Sensor LiDAR em Dispositivos iOS  
-Acadêmico: Gabriel Luis Fernando de Souza  
-Orientador: Dalton Solano dos Reis  
+Acadêmico: Gabriel Luis Fernando de Souza - Orientador: Dalton Solano dos Reis  
 
 Óculos de Realidade Virtual para Auxiliar as Pessoas com Deficiência Visual a Transitarem em Lugares Aberto e Fechados  
-Acadêmico: Guilherme Barth
-Orientador: Dalton Solano dos Reis  
+Acadêmico: Guilherme Barth - Orientador: Dalton Solano dos Reis  
 
 ### 2021-II
 
