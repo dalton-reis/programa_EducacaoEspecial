@@ -4,7 +4,7 @@ Material de pesquisa sobre educação especial: Braille
 
 ## Visão Geral
 
-![Mapa dos Trabalhos](imgs/Braille_VisaoGeral.drawio.svg "Mapa dos trabalhos")  
+![Mapa dos Trabalhos](imgs/Braille_VisaoGeral.drawio.svg "Diagrama com 11 trabalhos separados em 4 grupos: diretrizes de acessibilidade, com 1 trabalho; braille jogos, com 2 trabalhos; braille educação, com 2 trabalhos; e braille equipamentos, 6 trabalhos.")  
 
 ## Diretrizes de Acessibilidade
 
